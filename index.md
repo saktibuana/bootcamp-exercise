@@ -14,7 +14,7 @@ nav_order: 1
 
 ## Introduction
 ### Who. 🤝
-Sakti Buana is short name for Arti Hikmatullah Perbawana Sakti Buana, a web developer now living in suburban area of Bandung City, Indonesia Country. His pronouns are he/him. 
+Sakti Buana is short name for Arti Hikmatullah Perbawana Sakti Buana, a software engineer now living in suburban area of Bandung City, Indonesia Country. His pronouns are he/him. 
 
 ### Why. ❓
 
