@@ -1,9 +1,9 @@
 ---
-title: Recommendation
+title: Saran
 nav_order: 2
 ---
 
-### Rekomendasi Mulai Belajar
+### Saran Langkah Mulai Belajar
 - [DOCS] [Python documentation](https://docs.python.org/3/)
 - [WIKI] [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 - [WEBSITE] [Belajar Python - Tutorial](https://belajarpython.com/tutorial/apa-itu-python)
