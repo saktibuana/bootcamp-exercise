@@ -1,6 +1,6 @@
 ---
 title: Software Engineer vs Software Developer
-nav_order: 4
+nav_order: 3
 ---
 
 <details open markdown="block">
