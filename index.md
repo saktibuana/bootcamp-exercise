@@ -7,7 +7,7 @@ nav_order: 1
 ### I am Sakti Buana. Welcome to my blog.
 
 # Navigation Structure
-{: .toc }
+{:toc }
 
 ### Markdown
 
