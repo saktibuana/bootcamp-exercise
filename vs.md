@@ -1,6 +1,6 @@
 ---
-title: Beranda
-nav_order: 1
+title: Software Engineer vs Software Developer
+nav_order: 4
 ---
 
 <details open markdown="block">
@@ -13,10 +13,10 @@ nav_order: 1
 </details>
 
 ## Introduction
-### Who. 🤝
+### Software Engineer. 🤝
 He is who has the complete name of Arti Hikmatullah Perbawana Sakti Buana, a software engineer. 
 
-### Where. 📍
+### Software Developer. 📍
 Now living in suburban area of Bandung City, Indonesia Country.
 
 ### What. ❓
