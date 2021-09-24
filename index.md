@@ -1,3 +1,8 @@
+---
+title: Beranda
+nav_order: 1
+---
+
 ## Assalamu'alaikum 🤝
 ### I am Sakti Buana. Welcome to my blog.
 
