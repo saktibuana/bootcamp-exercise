@@ -13,9 +13,11 @@ nav_order: 1
 {:toc}
 </details>
 
-### Markdown
 
-### I am Sakti Buana. Welcome to my blog.
+### Who is Sakti Buana?
+Sakti Buana is a web developer now living in suburban area of Bandung City, Indonesia. He is a Director of Engineering at Bleacher Report. In his spare time he writes the Web Developer browser extension and is also the creator of Read Ruler which allows you to view your Pocket articles listed by reading time and automatically add reading time tags to those articles. His pronouns are he/him.
+
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
