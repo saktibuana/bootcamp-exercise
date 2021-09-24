@@ -1,3 +1,8 @@
+---
+title: Recommendation
+nav_order: 2
+---
+
 ### Rekomendasi Mulai Belajar
 - [DOCS] [Python documentation](https://docs.python.org/3/)
 - [WIKI] [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
