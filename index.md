@@ -26,4 +26,4 @@ Recently after involved in engaged volunteering in education area he addicted wi
 Along with @progateid by directing their student members as well as completing the translation of their material into Indonesian.
 
 ### How.
-Feel free to contact and directly ask questions regarding getting into programming. His contact shoudl be found in the corners of this page.
+Feel free to contact and directly ask questions regarding getting into programming. His contact should be found in the corners of this page.
