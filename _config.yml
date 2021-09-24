@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+title: saktibuana.github.io
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+# For the upper right navigation
+aux_links:
+    "Sumber situs ini di GitHub":
+      - "https://github.com/saktibuana/saktibuana.github.io"
+color_scheme: "dark"
