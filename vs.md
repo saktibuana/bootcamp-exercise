@@ -13,10 +13,10 @@ nav_order: 3
 </details>
 
 ## Introduction
-### Software Engineer. 🤝
+### Who. 🤝
 He is who has the complete name of Arti Hikmatullah Perbawana Sakti Buana, a software engineer. 
 
-### Software Developer. 📍
+### Where and When. 📍
 Now living in suburban area of Bandung City, Indonesia Country.
 
 ### What. ❓
