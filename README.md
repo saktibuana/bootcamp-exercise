@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Assalamu'alaikum 🤝
+## I am Sakti Buana. Welcome to my blog.
 
 You can use the [editor on GitHub](https://github.com/saktibuana/saktibuana.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
