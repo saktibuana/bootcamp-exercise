@@ -2,9 +2,7 @@
 title: Beranda
 nav_order: 1
 ---
-
-## Assalamu'alaikum 🤝
-### I am Sakti Buana. Welcome to my blog.
+# Assalamu'alaikum 🤝
 
 <details open markdown="block">
   <summary>
@@ -16,6 +14,8 @@ nav_order: 1
 </details>
 
 ### Markdown
+
+### I am Sakti Buana. Welcome to my blog.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
