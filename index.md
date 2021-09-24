@@ -21,7 +21,7 @@ Now living in suburban area of Bandung City, Indonesia Country.
 
 ### What. ❓
 He does giving solution to those need in software world, teaching people into programming.
-Previously involved in banking area of work, however as he learnt that his religion prohibits such work, he focused on redirecting his energy in teaching his own son.
+After serial of journey involving various area of work, such as banking, human resourcing, he then focused on redirecting his energy in raising his own son.
 Recently after involved in engaged volunteering in education area he addicted with education world.
 Along with @progateid by directing their student members as well as completing the translation of their material into Indonesian.
 
