@@ -1,8 +1,8 @@
-title: saktibuana.github.io
+title: http://s.id/saktibuana
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 # For the upper right navigation
 aux_links:
-    "Sumber situs ini di GitHub":
-      - "https://github.com/saktibuana/saktibuana.github.io"
+    "Contact Me":
+      - "http://s.id/saktibuana"
 color_scheme: "dark"
