@@ -1,6 +1,6 @@
 ---
 title: Reason
-nav_order: 5
+nav_order: 3
 ---
 
 # Why Do We Keep Learning?
