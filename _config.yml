@@ -1,8 +1,8 @@
-title: http://s.id/saktibuana
+title: @saktibuana
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 # For the upper right navigation
 aux_links:
-    "Contact Me":
+    "Contact @saktibuana":
       - "http://s.id/saktibuana"
 color_scheme: "dark"
