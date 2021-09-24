@@ -2,7 +2,6 @@
 title: Beranda
 nav_order: 1
 ---
-# Assalamu'alaikum 🤝
 
 <details open markdown="block">
   <summary>
@@ -14,7 +13,7 @@ nav_order: 1
 </details>
 
 
-### Who is Sakti Buana?
+### Nice to know. 🤝
 Sakti Buana is a web developer now living in suburban area of Bandung City, Indonesia. He is a Director of Engineering at Bleacher Report. In his spare time he writes the Web Developer browser extension and is also the creator of Read Ruler which allows you to view your Pocket articles listed by reading time and automatically add reading time tags to those articles. His pronouns are he/him.
 
 ### Markdown
