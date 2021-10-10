@@ -1,7 +1,8 @@
 ---
+layout: default
 title: Soft. Engineer vs Soft. Developer
 parent: Journal
-nav_order: 2
+nav_order: 1
 ---
 
 <details open markdown="block">
