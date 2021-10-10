@@ -27,14 +27,23 @@ Software comprises the entire set of programs, procedures, and routines associat
 
 ### Jenis-jenis Software.
 	<details><summary markdown="span">Application Software</summary>**Lorem ipsum dolor sit amet...**</details>
+
 	<details><summary markdown="span">System Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	
 	<details><summary markdown="span">Firmware</summary>**Lorem ipsum dolor sit amet...**</details>
+	
 	<details><summary markdown="span">Programming Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	
 	<details><summary markdown="span">Driver Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	
 	<details><summary markdown="span">Freeware Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	
 	<details><summary markdown="span">Shareware Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	
 	<details><summary markdown="span">Open Source Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	
 	<details><summary markdown="span">Closed Source Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	
 	<details><summary markdown="span">Utility Software</summary>**Lorem ipsum dolor sit amet...**</details>
 
 ### What. ❓
