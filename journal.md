@@ -12,7 +12,7 @@ has_children: true
 
 <details open markdown="block">
   <summary>
-    Table of contents
+    Daftar Isi
   </summary>
   {: .text-delta }
 - TOC
@@ -28,7 +28,22 @@ Software comprises the entire set of programs, procedures, and routines associat
 ### Jenis-jenis Software.
 
 #### Application Software
-Lorem ipsum dolor sit amet...
+
+ 	-	<details><summary markdown="span">Word Processing Software</summary>Google Docs, Microsoft Word, WordPad and Notepad</details>
+	-	<details><summary markdown="span">Database Software</summary>MySQL, Microsoft SQL Server, Microsoft Access, Oracle, IBM DB2 dan FoxPro</details>
+	-	<details><summary markdown="span">Spreadsheet Software</summary>Google Sheets, Apple Numbers and Microsoft Excel</details>
+	-	<details><summary markdown="span">Multimedia Software</summary>Media Player, Winamp, QuickTime and VLC Media Player</details>
+ 	-	<details><summary markdown="span">Presentation Software</summary>Google Slides, Microsoft Powerpoint, Keynotes, Prezzy</details>
+	-	<details><summary markdown="span">Enterprise Software</summary>customer relationship management (CRM) software (HubSpot, Microsoft Dynamic 365)), project management tools (Jira, Monday), marketing automation tools (Marketo, HubSpot), enterprise resource planning (ERP) software (SAGE, Oracle, Microsoft Dynamics), treasury management system (TMS) software (SAP S/4HANA Finance, Oracle Treasury), business intelligence (BI) software (SAP Business Intelligence, MicroStrategy, Microsoft Power BI)</details>
+	-	Information Worker Software: Documentation tools, resource management tools
+	-	Communication Software: Zoom, Google Meet, Skype
+	-	Educational Software: Dictionaries – Encarta, Britannica; Mathematical: MATLAB; Others: Google Earth, NASA World Wind
+	-	Simulation Software: Flight and scientific simulators
+	-	Content Access Software: Accessing content through media players, web browsers
+	-	Application Suites: Apache OpenOffice, Microsoft Office365, Apple’s iWork, LibreOffice, G-Suite, Oracle E-Business Suite
+	-	Software for Engineering and Product Development: IDE or Integrated Development Environments
+	-	Email Software: Microsoft Outlook, Gmail, Apple Mail
+
 
 #### System Software
 Lorem ipsum dolor sit amet...

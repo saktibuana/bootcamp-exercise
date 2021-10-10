@@ -9,7 +9,7 @@ nav_order: 1
 
 <details open markdown="block">
   <summary>
-    Table of contents
+    Daftar Isi
   </summary>
   {: .text-delta }
 - TOC
