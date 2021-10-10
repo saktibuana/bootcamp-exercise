@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-# Journal
+# Jurnal
 
 [7 Reason why Should we code](https://docs.python.org/3/)
 
@@ -20,8 +20,8 @@ has_children: true
 </details>
 
 ## Software
-### Life Cycle. 🤝
-Software, instructions that tell a computer what to do. Software comprises the entire set of programs, procedures, and routines associated with the operation of a computer system. ... A set of instructions that directs a computer's hardware to perform a task is called a program, or software program.
+### Definisi. ❓
+Software adalah sebuah istilah dalam bahasa Inggris yang dikenal juga dengan istilah piranti lunak dalam bahasa Indonesia, merupakan serangkaian instruksi yang memerintahkan sebuah komputer apa yang harus dilakukan. Software comprises the entire set of programs, procedures, and routines associated with the operation of a computer system. ... A set of instructions that directs a computer's hardware to perform a task is called a program, or software program.
 
 ### Software Engineer. 📍
 Now living in suburban area of Bandung City, Indonesia Country.
