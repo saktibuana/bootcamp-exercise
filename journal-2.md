@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Soft. Engineer vs Soft. Developer
+title: Second Title Journal
 parent: Journal
 has_children: false
-nav_order: 1
+nav_order: 2
 
 ---
 
