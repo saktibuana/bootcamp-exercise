@@ -29,19 +29,22 @@ Software comprises the entire set of programs, procedures, and routines associat
 
 #### Application Software
 
- 	-	Word Processing Software
+ 	- Word Processing Software
  		
- 		<details open markdown="block"><summary markdown="span">Software yang digunakan untuk melakukan proses terhadap kata-kata</summary>Google Docs, Microsoft Word, WordPad and Notepad</details>
+		<details open markdown="block">
+			<summary markdown="span">Software yang digunakan untuk melakukan proses terhadap kata-kata</summary>
+			Google Docs, Microsoft Word, WordPad and Notepad
+		</details>
 	
-	-	Database Software
+	- Database Software
 
 		<details  open markdown="block"><summary markdown="span">Software yang digunakan untuk pengolahan data</summary>MySQL, Microsoft SQL Server, Microsoft Access, Oracle, IBM DB2 dan FoxPro</details>
 	
-	-	Spreadsheet Software
+	- Spreadsheet Software
 
 		<details open markdown="block"><summary markdown="span">Software yang digunakan untuk pengolahan lembar kerja</summary>Google Sheets, Apple Numbers and Microsoft Excel</details>
 	
-	-	Multimedia Software
+	- Multimedia Software
 		
 		<details  open markdown="block"><summary markdown="span">Software yang digunakan untuk multimedia</summary>Media Player, Winamp, QuickTime and VLC Media Player</details>
 
