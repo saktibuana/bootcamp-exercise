@@ -21,7 +21,7 @@ has_children: true
 
 ## Software
 ### Life Cycle. 🤝
-He is who has the complete name of Arti Hikmatullah Perbawana Sakti Buana, a software engineer. 
+Software, instructions that tell a computer what to do. Software comprises the entire set of programs, procedures, and routines associated with the operation of a computer system. ... A set of instructions that directs a computer's hardware to perform a task is called a program, or software program.
 
 ### Software Engineer. 📍
 Now living in suburban area of Bandung City, Indonesia Country.
