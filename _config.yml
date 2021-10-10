@@ -5,5 +5,5 @@ search_enabled: true
 aux_links:
     "Contact @saktibuana":
       - "http://s.id/saktibuana"
-color_scheme: "light"
-#color_scheme: "dark"
+#color_scheme: "light"
+color_scheme: "dark"
