@@ -1,7 +1,7 @@
 ---
 title: Soft. Engineer vs Soft. Developer
-nav_order: 3
-sub_nav: 1
+parent: Journal
+nav_order: 2
 ---
 
 <details open markdown="block">
