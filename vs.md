@@ -1,6 +1,7 @@
 ---
 title: Soft. Engineer vs Soft. Developer
 nav_order: 4
+sub_nav: 3
 ---
 
 <details open markdown="block">
