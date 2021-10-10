@@ -30,14 +30,28 @@ Software comprises the entire set of programs, procedures, and routines associat
 #### Application Software
 
  	-	Word Processing Software
- 		<details><summary markdown="span">Software yang digunakan untuk melakukan proses terhadap kata-kata</summary>Google Docs, Microsoft Word, WordPad and Notepad</details>
+ 		
+ 		<details open markdown="block"><summary markdown="span">Software yang digunakan untuk melakukan proses terhadap kata-kata</summary>Google Docs, Microsoft Word, WordPad and Notepad</details>
+	
 	-	Database Software
-		<details><summary markdown="span">Software yang digunakan untuk pengolahan data</summary>MySQL, Microsoft SQL Server, Microsoft Access, Oracle, IBM DB2 dan FoxPro</details>
+
+		<details  open markdown="block"><summary markdown="span">Software yang digunakan untuk pengolahan data</summary>MySQL, Microsoft SQL Server, Microsoft Access, Oracle, IBM DB2 dan FoxPro</details>
+	
 	-	Spreadsheet Software
-<details><summary markdown="span">Software yang digunakan untuk pengolahan lembar kerja</summary>Google Sheets, Apple Numbers and Microsoft Excel</details>
-	-	<details><summary markdown="span">Multimedia Software</summary>Media Player, Winamp, QuickTime and VLC Media Player</details>
- 	-	<details><summary markdown="span">Presentation Software</summary>Google Slides, Microsoft Powerpoint, Keynotes, Prezzy</details>
-	-	<details><summary markdown="span">Enterprise Software</summary>customer relationship management (CRM) software (HubSpot, Microsoft Dynamic 365)), project management tools (Jira, Monday), marketing automation tools (Marketo, HubSpot), enterprise resource planning (ERP) software (SAGE, Oracle, Microsoft Dynamics), treasury management system (TMS) software (SAP S/4HANA Finance, Oracle Treasury), business intelligence (BI) software (SAP Business Intelligence, MicroStrategy, Microsoft Power BI)</details>
+
+		<details open markdown="block"><summary markdown="span">Software yang digunakan untuk pengolahan lembar kerja</summary>Google Sheets, Apple Numbers and Microsoft Excel</details>
+	
+	-	Multimedia Software
+		
+		<details  open markdown="block"><summary markdown="span">Software yang digunakan untuk multimedia</summary>Media Player, Winamp, QuickTime and VLC Media Player</details>
+
+ 	-	Presentation Software
+
+ 		<details><summary markdown="span">Software yang digunakan untuk membantu kegiatan presentasi</summary>Google Slides, Microsoft Powerpoint, Keynotes, Prezzy</details>
+
+	-	Enterprise Software
+
+		<details><summary markdown="span">Software untuk kegiatan enterprise</summary>customer relationship management (CRM) software (HubSpot, Microsoft Dynamic 365)), project management tools (Jira, Monday), marketing automation tools (Marketo, HubSpot), enterprise resource planning (ERP) software (SAGE, Oracle, Microsoft Dynamics), treasury management system (TMS) software (SAP S/4HANA Finance, Oracle Treasury), business intelligence (BI) software (SAP Business Intelligence, MicroStrategy, Microsoft Power BI)</details>
 	-	Information Worker Software: Documentation tools, resource management tools
 	-	Communication Software: Zoom, Google Meet, Skype
 	-	Educational Software: Dictionaries – Encarta, Britannica; Mathematical: MATLAB; Others: Google Earth, NASA World Wind
