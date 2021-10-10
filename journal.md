@@ -21,10 +21,21 @@ has_children: true
 
 ## Software
 ### Definisi. ❓
-Software adalah sebuah istilah dalam bahasa Inggris yang dikenal juga dengan istilah piranti lunak dalam bahasa Indonesia, merupakan serangkaian instruksi yang memerintahkan sebuah komputer apa yang harus dilakukan. Software comprises the entire set of programs, procedures, and routines associated with the operation of a computer system. ... A set of instructions that directs a computer's hardware to perform a task is called a program, or software program.
+Software adalah sebuah istilah dalam bahasa Inggris yang dikenal juga dengan istilah piranti lunak dalam bahasa Indonesia, merupakan serangkaian instruksi yang memerintahkan sebuah komputer apa yang harus dilakukan.
 
-### Software Engineer. 📍
-Now living in suburban area of Bandung City, Indonesia Country.
+Software comprises the entire set of programs, procedures, and routines associated with the operation of a computer system. ... A set of instructions that directs a computer's hardware to perform a task is called a program, or software program.
+
+### Jenis-jenis Software. 📍
+- [x] Application Software
+- [x] System Software
+- [x] Firmware
+- [x] Programming Software
+- [x] Driver Software
+- [x] Freeware
+- [x] Shareware
+- [x] Open Source Software
+- [x] Closed Source Software
+- [x] Utility Software
 
 ### What. ❓
 He does giving solution to those need in software world, teaching people into programming.
