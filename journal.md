@@ -26,16 +26,16 @@ Software adalah sebuah istilah dalam bahasa Inggris yang dikenal juga dengan ist
 Software comprises the entire set of programs, procedures, and routines associated with the operation of a computer system. ... A set of instructions that directs a computer's hardware to perform a task is called a program, or software program.
 
 ### Jenis-jenis Software.
-- [x] <details><summary markdown="span">Application Software</summary>**Lorem ipsum dolor sit amet...**</details>
-- [x] System Software
-- [x] Firmware
-- [x] Programming Software
-- [x] Driver Software
-- [x] Freeware
-- [x] Shareware
-- [x] Open Source Software
-- [x] Closed Source Software
-- [x] Utility Software
+	<details><summary markdown="span">Application Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	<details><summary markdown="span">System Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	<details><summary markdown="span">Firmware</summary>**Lorem ipsum dolor sit amet...**</details>
+	<details><summary markdown="span">Programming Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	<details><summary markdown="span">Driver Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	<details><summary markdown="span">Freeware Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	<details><summary markdown="span">Shareware Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	<details><summary markdown="span">Open Source Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	<details><summary markdown="span">Closed Source Software</summary>**Lorem ipsum dolor sit amet...**</details>
+	<details><summary markdown="span">Utility Software</summary>**Lorem ipsum dolor sit amet...**</details>
 
 ### What. ❓
 He does giving solution to those need in software world, teaching people into programming.
